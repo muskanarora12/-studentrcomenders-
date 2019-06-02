@@ -1,0 +1,45 @@
+enter the number of Student in database                                                                                                        
+3                                                                     
+
+TEST 1
+enter the name and roll no. :                                                                                                                  
+aaa                                                                                                                                            
+111                                                                                                                                            
+enter the marks  for each subject (maximum marks 100)                                                                                          
+97                                                                                                                                             
+87                                                                                                                                             
+77                                                                                                                                             
+87                                                                                                                                             
+Enter the no. of the backlogs                                                                                                                  
+2                                                                                                                                              
+the result of the student is =87%                                                                                                              
+aaa is not recommended to the company
+
+
+TEST 2 
+enter the name and roll no. :                                                                                                                  
+bbb                                                                                                                                            
+222                                                                                                                                            
+enter the marks  for each subject (maximum marks 100)                                                                                          
+45                                                                                                                                             
+65                                                                                                                                             
+34                                                                                                                                             
+45                                                                                                                                             
+Enter the no. of the backlogs                                                                                                                  
+0                                                                                                                                              
+the result of the student is =47%                                                                                                              
+bbb is not recommended to the company                                                                                                     
+
+
+TEST 3
+enter the name and roll no. :                                                                                                                  
+ccc                                                                                                                                            
+333 enter the marks  for each subject (maximum marks 100)                                                                                          
+78                                                                                                                                             
+77                                                                                                                                             
+89                                                                                                                                             
+76                                                                                                                                             
+Enter the no. of the backlogs                                                                                                                  
+0                                                                                                                                              
+the result of the student is =80%                                                                                                              
+ccc is recommended to the company           
